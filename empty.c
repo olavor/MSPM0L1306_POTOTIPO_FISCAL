@@ -1,7 +1,7 @@
 #include "ti_msp_dl_config.h"
 
 // Definição de ciclos para atraso de 10ms baseado no clock padrão
-// 320000 ciclos @ 32MHz = ~10ms
+// 320000 ciclos @ 32MHz = ~1ms
 #define DELAY_10MS (32000)
 
 // Definição dos estados do sistema para o LED 1
